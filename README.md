@@ -31,12 +31,13 @@ Open for internship opportunities in software development, game development, or 
 <br>
 ## Skills
 <br>
-| Category | Technologies |
-|----------|--------------|
-| Languages | C++, Python, GDScript, SQL, HTML/CSS |
-| Game Dev | Godot Engine (2D) |
-| Networking | Static, OSPF, RIP, EIGRP, VLANs, ACLs, DHCP, DNS |
-| Tools | Git, GitHub, Linux, Oracle VM, Windows Server |
+<b>Languages:</b> C++, Python, GDScript, SQL, HTML/CSS
+<br>
+<b>Game Dev:</b> Godot Engine (2D)
+<br>
+<b>Networking:</b> Static, OSPF, RIP, EIGRP, VLANs, ACLs, DHCP, DNS
+<br>
+<b>Tools:</b> Git, GitHub, Linux, Oracle VM, Windows Server
 <br>
 ---
 

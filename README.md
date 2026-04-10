@@ -73,27 +73,4 @@ Open for internship opportunities in software development, game development, or 
 <br>
 <a href="mailto:naderaldamaira@gmail.com">
   <img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email">
-</a><br>
-- IEEE Python Certificate (Robotics & Automation Python Workshop)
-<br>
----
-
-<br>
-## Featured Work
-<br>
-- 🎮 **Game Jam Project** (4th place) – [Play on Itch.io](https://class404.itch.io/once-upon-a-time-web)
-<br>
-- 🤖 **Python CLI Chatbot (Garbot)** – File management, web browsing, weather queries → [GitHub](https://github.com/class404/Garbot_0.4)
-<br>
-- 🍎 **Fruitables** (2D Platformer, in development) – Private repository
-<br>
----
-
-<br>
-## Connect
-<br>
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/naderaldamaira)
-<br>
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/class404)
-<br>
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:naderaldamaira@gmail.com)
+</a>

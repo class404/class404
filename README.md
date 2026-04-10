@@ -18,7 +18,7 @@ Cisco-certified network-engineering student | Game Developer | 8x Certified (7 C
 <br>
 - **Internship**: One month at Jordan Telecommunications Regulatory Commission (user support, server admin).
 <br>
-- **Freelance**: 4 months, 15+ deliverables.
+- **Client work**: Built a website for a client (HTML/CSS).
 <br>
 - **Current project**: 2D platformer "Fruitables" in Godot.
 <br>

@@ -39,7 +39,7 @@
 ‎
 ‎## Featured Work
 ‎
-‎- 🎮 **Game Jam Project** (4th place) – [Play on Itch.io](https://class404.itch.io/once-upon-a-time-https)
+‎- 🎮 **Game Jam Project** (4th place) – [Play on Itch.io](https://class404.itch.io/once-upon-a-time-web)
 ‎- 🤖 **Python CLI Chatbot (Garbot)** – File management, web browsing, weather queries → [GitHub](https://github.com/class404/Garbot_0.4)
 ‎- 🍎 **Fruitables** (2D Platformer, in development) – Private repository
 ‎

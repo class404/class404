@@ -52,6 +52,35 @@ Open for internship opportunities in software development, game development, or 
 <br>
 ## Featured Work
 <br>
+- 🎮 <b>Game Jam Project</b> (4th place) – <a href="https://class404.itch.io/once-upon-a-time-web">Play on Itch.io</a>
+<br>
+- 🤖 <b>Python CLI Chatbot (Garbot)</b> – File management, web browsing, weather queries → <a href="https://github.com/class404/Garbot_0.4">GitHub</a>
+<br>
+- 🍎 <b>Fruitables</b> (2D Platformer, in development) – Private repository
+<br>
+---
+
+<br>
+## Connect
+<br>
+<a href="https://linkedin.com/in/naderaldamaira">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<br>
+<a href="https://github.com/class404">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
+</a>
+<br>
+<a href="mailto:naderaldamaira@gmail.com">
+  <img src="https://img.shields.io/badge/-Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email">
+</a><br>
+- IEEE Python Certificate (Robotics & Automation Python Workshop)
+<br>
+---
+
+<br>
+## Featured Work
+<br>
 - 🎮 **Game Jam Project** (4th place) – [Play on Itch.io](https://class404.itch.io/once-upon-a-time-web)
 <br>
 - 🤖 **Python CLI Chatbot (Garbot)** – File management, web browsing, weather queries → [GitHub](https://github.com/class404/Garbot_0.4)

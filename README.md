@@ -42,3 +42,7 @@ developing a Python tool, or designing a 2D platformer, I treat everything like 
 </ul>
 
 <hr>
+<p>
+📧 <a href="mailto:naderaldamaira@gmail.com>naderaldamaira@gmail.com</a> <br>
+🔗 <a href="https://linkedin.com/in/naderaldamaira">LinkedIn</a> &nbsp;|&nbsp; <a href="https://github.com/class404">GitHub</a> &nbsp;|&nbsp; <a href="https://class404.github.io/Class-404/">Portfolio</a>
+</p>

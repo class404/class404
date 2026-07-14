@@ -1,3 +1,5 @@
+<h1>Nader Aldamaira</h1>
+
 <p><strong>Information Security & Networks Graduate</strong> | <strong>Python & Godot Developer</strong> | <strong>10x Certified</strong></p>
 
 📍 Jordan &nbsp;|&nbsp; 🎓 Amman Training Center (2026) &nbsp;|&nbsp; GPA: 95.6% (Ranked #1 in cohort) <br>
